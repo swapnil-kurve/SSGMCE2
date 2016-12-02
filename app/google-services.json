@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "992332856438",
+    "project_id": "alumni-146810"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992332856438:android:1ea63269e40c7620",
+        "android_client_info": {
+          "package_name": "com.alumni.ssgmce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992332856438-l7dgtdga885k0su9641cnl03a06g7ehe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alumni.ssgmce",
+            "certificate_hash": "614648273C85ED8993E6D8564D7C1E4EB1891283"
+          }
+        },
+        {
+          "client_id": "992332856438-haue11gg6tdfo4euitipfuvbkiotfua1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKel-bkSbx9rZCME-Znj3AfI4EcPr0YxM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

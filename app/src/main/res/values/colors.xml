@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="transparent_white">#30FFFFFF</color>
+    <color name="blue_grey_500">#607D8B</color>
+    <color name="blue_grey_600">#546E7A</color>
+    <color name="blue_grey_700">#455A64</color>
+    <color name="blue_grey_800">#37474F</color>
+    <color name="blue_grey_900">#263238</color>
+    <color name="transaparent">#80000000</color>
+
+    <color name="gray_bg">#1C000000</color>
+    <color name="theme_blue">#01284F</color>
+    <color name="navy_blue">#4c4c9d</color>
+    <color name="personal_bg">#2E3B97</color>
+    <color name="education_bg">#55ACEE</color>
+    <color name="work_exp_bg">#CB2027</color>
+    <color name="black_trasperent">#33000000</color>
+    <color name="grey_all">#616161</color>
+    <color name="orange">#dc4201</color>
+
+    <color name="theme_dark_1">#591631</color>
+    <color name="theme_dark_2">#760F3F</color>
+    <color name="theme_dark_3">#7B1E44</color>
+    <color name="theme_dark_4">#8B224C</color>
+
+    <color name="label1">#666666</color>
+    <color name="input_text1">#000000</color>
+    <color name="button">#ae275f</color>
+    <color name="header2">#333333</color>
+    <color name="soft_gray">#f2f2f2</color>
+    <color name="metal_gray">#e6e6e6</color>
+    <color name="label_pink">#ed1164</color>
+    <color name="stroke_gray">#a0a0a0</color>
+    <color name="dark_gray">#727272</color>
+    <color name="bar">#505050</color>
+    <color name="green">#6dcb35</color>
+</resources>
